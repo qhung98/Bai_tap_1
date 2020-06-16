@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bai_tap_1</string>
+    <string name="name">Nguyen Quang Hung - B16DCAT074</string>
+    <string name="group">Group 3</string>
+    <string name="hello">Hello!</string>
+    <string name="change">Change</string>
+    <string name="title">Choose a language: </string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Vietnamese</item>
+    </string-array>
+</resources>
